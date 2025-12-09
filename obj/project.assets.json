@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GamerAO\\Desktop\\Semana2Estructuradedatos\\Proyecto\\Proyecto.csproj",
+      "projectUniqueName": "C:\\Users\\GamerAO\\Desktop\\Proyecto\\Proyecto.csproj",
       "projectName": "Proyecto",
-      "projectPath": "C:\\Users\\GamerAO\\Desktop\\Semana2Estructuradedatos\\Proyecto\\Proyecto.csproj",
+      "projectPath": "C:\\Users\\GamerAO\\Desktop\\Proyecto\\Proyecto.csproj",
       "packagesPath": "C:\\Users\\GamerAO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GamerAO\\Desktop\\Semana2Estructuradedatos\\Proyecto\\obj\\",
+      "outputPath": "C:\\Users\\GamerAO\\Desktop\\Proyecto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GamerAO\\AppData\\Roaming\\NuGet\\NuGet.Config"

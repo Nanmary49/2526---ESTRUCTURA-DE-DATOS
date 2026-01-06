@@ -1,0 +1,15 @@
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\bin\Debug\net10.0\Semana4ListasYTuplas.exe
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\bin\Debug\net10.0\Semana4ListasYTuplas.deps.json
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\bin\Debug\net10.0\Semana4ListasYTuplas.runtimeconfig.json
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\bin\Debug\net10.0\Semana4ListasYTuplas.dll
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\bin\Debug\net10.0\Semana4ListasYTuplas.pdb
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\obj\Debug\net10.0\Semana4ListasYTuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\obj\Debug\net10.0\Semana4ListasYTuplas.AssemblyInfoInputs.cache
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\obj\Debug\net10.0\Semana4ListasYTuplas.AssemblyInfo.cs
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\obj\Debug\net10.0\Semana4ListasYTuplas.csproj.CoreCompileInputs.cache
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\obj\Debug\net10.0\Semana4ListasYTuplas.sourcelink.json
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\obj\Debug\net10.0\Semana4ListasYTuplas.dll
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\obj\Debug\net10.0\refint\Semana4ListasYTuplas.dll
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\obj\Debug\net10.0\Semana4ListasYTuplas.pdb
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\obj\Debug\net10.0\Semana4ListasYTuplas.genruntimeconfig.cache
+C:\Users\GamerAO\Desktop\Proyecto\Semana4ListasYTuplas\obj\Debug\net10.0\ref\Semana4ListasYTuplas.dll

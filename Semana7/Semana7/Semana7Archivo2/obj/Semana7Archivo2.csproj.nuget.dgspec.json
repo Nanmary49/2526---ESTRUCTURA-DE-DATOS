@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GamerAO\\Desktop\\Proyecto\\Semana7\\Semana7Archivo2\\Semana7Archivo2.csproj": {}
+    "C:\\Users\\GamerAO\\Desktop\\Proyecto\\Semana7\\Semana7\\Semana7Archivo2\\Semana7Archivo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GamerAO\\Desktop\\Proyecto\\Semana7\\Semana7Archivo2\\Semana7Archivo2.csproj": {
+    "C:\\Users\\GamerAO\\Desktop\\Proyecto\\Semana7\\Semana7\\Semana7Archivo2\\Semana7Archivo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GamerAO\\Desktop\\Proyecto\\Semana7\\Semana7Archivo2\\Semana7Archivo2.csproj",
+        "projectUniqueName": "C:\\Users\\GamerAO\\Desktop\\Proyecto\\Semana7\\Semana7\\Semana7Archivo2\\Semana7Archivo2.csproj",
         "projectName": "Semana7Archivo2",
-        "projectPath": "C:\\Users\\GamerAO\\Desktop\\Proyecto\\Semana7\\Semana7Archivo2\\Semana7Archivo2.csproj",
+        "projectPath": "C:\\Users\\GamerAO\\Desktop\\Proyecto\\Semana7\\Semana7\\Semana7Archivo2\\Semana7Archivo2.csproj",
         "packagesPath": "C:\\Users\\GamerAO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GamerAO\\Desktop\\Proyecto\\Semana7\\Semana7Archivo2\\obj\\",
+        "outputPath": "C:\\Users\\GamerAO\\Desktop\\Proyecto\\Semana7\\Semana7\\Semana7Archivo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GamerAO\\AppData\\Roaming\\NuGet\\NuGet.Config"

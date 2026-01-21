@@ -1,0 +1,3 @@
+C:\Users\GamerAO\Desktop\Proyecto\obj\Debug\net10.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamerAO\Desktop\Proyecto\obj\Debug\net10.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\GamerAO\Desktop\Proyecto\obj\Debug\net10.0\Proyecto.sourcelink.json
